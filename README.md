@@ -18,14 +18,14 @@ AWS Athena: Interactive query service for analyzing data directly in S3 without 
 Dataset Used
 The dataset used in this project is sourced from Kaggle, containing statistics on daily popular YouTube videos over several months. Each region has a separate file with details such as:
 
-Video title
+Video title,
 Channel title
-Publication time
-Tags
-Views
-Likes and dislikes
-Description
-Comment count
+Publication time,
+Tags,
+Views,
+Likes and dislikes,
+Description,
+Comment count,
 Category ID (specific to each region)
 
 
