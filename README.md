@@ -27,7 +27,7 @@ Likes and dislikes
 Description
 Comment count
 Category ID (specific to each region)
-You can access the dataset here: Kaggle YouTube Dataset.
+
 
 Architecture Diagram
 
