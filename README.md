@@ -33,6 +33,9 @@ Architecture Diagram
 
 ![image](https://github.com/user-attachments/assets/cf81844d-3da0-47e5-8219-74d686b4450e)
 
+![image](https://github.com/user-attachments/assets/bb8793a2-03bb-487b-9398-ec70d472d10a)
+
+
 
 Getting Started
 Prerequisites
